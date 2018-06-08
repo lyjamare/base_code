@@ -1,0 +1,6 @@
+# git push
+git push  <REMOTENAME> <BRANCHNAME> 
+git push  <REMOTENAME> <LOCALBRANCHNAME>:<REMOTEBRANCHNAME>
+
+# git config
+git config user.name
