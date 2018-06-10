@@ -1,0 +1,11 @@
+#declaration:
+  template <class identifier> function_declaration;
+  template <typename identifier> function_declaration;
+
+#compile:
+  gcc -c *.cpp
+  gcc -o main *.o
+
+#clean:
+  rm -rf *.o
+  rm -rf main
